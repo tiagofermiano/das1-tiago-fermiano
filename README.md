@@ -11,18 +11,21 @@ Primeiro registro da disciplina no GitHub - Design e Arquitetura de Software 1
 
 ## Meu conhecimento atual
 
-Descreva brevemente sua experiência com desenvolvimento de software.
+Copiei do linkedin:
+💻 Founder da Clout Tecnologias (+4 anos de experiência web, software, marketing & design)
+💻 +4 anos de experiência em suporte técnico com clientes e interno.
 
 ## Minhas expectativas
 
-Descreva o que espera aprender na disciplina.
+Aprimorar o conhecimento em arquitetura
 
 ## Área de interesse
 
-Informe em qual área de tecnologia pretende atuar ou possui maior interesse.
+Backend
 
 ## O que considero um software bem projetado?
 
-Escreva uma resposta curta utilizando suas próprias palavras.
+Com planejamento, estrutura e testes
 
 Neste campo, escreva: "Li e utilizei a estrutura solicitada".
+Li e utilizei a estrutura solicitada
